@@ -1,5 +1,13 @@
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% if page.author %}
+  {% if page.author.name %}
+    {% assign author = page.author %}
+  {% elsif site.data.authors[page.author] %}
+    {% assign author = site.data.authors[page.author] %}
+  {% else %}
+    {% assign author = site.author %}
+  {% endif %}
+{% else %}
+  {% assign author = site.author %}
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
@@ -16,7 +24,9 @@
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
+      {% if page.description %}
+        <li><div style="white-space: normal; margin-bottom: 1em;">{{ page.description }}</div></li>
+      {% elsif site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}

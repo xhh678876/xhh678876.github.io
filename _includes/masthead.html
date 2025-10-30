@@ -4,16 +4,31 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="https://tangjyan.github.io/" target="_self">
-              <img class="svg" src="/images/en.svg" width="20pt"> 
-              English
-            </a>
-          </li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          <li class="masthead__menu-item"><a id="lang-toggle" href="#" target="_self">切换语言</a></li>
+          {% if page.url contains '/zh-cn/' or page.permalink == '/zh-cn/' %}
+            {% assign nav = site.data.navigation.main %}
+          {% else %}
+            {% assign nav = site.data.navigation_en.main %}
+          {% endif %}
+          {% for link in nav %}
+            <li class="masthead__menu-item"><a href="{{ link.url }}" target="_self">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
+        <script>
+          (function(){
+            try {
+              var p = location.pathname;
+              var h = location.hash || '';
+              var isCn = p.indexOf('/zh-cn/') === 0 || p === '/zh-cn/';
+              var target = isCn ? p.replace('/zh-cn/', '/') : (p === '/' ? '/zh-cn/' : p.replace('/', '/zh-cn/'));
+              var a = document.getElementById('lang-toggle');
+              if (a) {
+                a.textContent = isCn ? 'English' : '中文';
+                a.setAttribute('href', target + h);
+              }
+            } catch(e) {}
+          })();
+        </script>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>

@@ -6,10 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
-description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+title                    : "谢豪辉"
+description              : "VLA+RL · World model · LLM"
+repository               : "xhh678876/xhh678876.github.io"
 google_scholar_stats_use_cdn : false
+url                      : "http://127.0.0.1:4001"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,15 +22,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
+  name             : "谢豪辉"
+  avatar           : "/images/android-chrome-192x192.png"
+  bio              : "上海交通大学 机械与动力工程学院 本科生"
+  location         : "上海"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : 
+  email            : "xhh666@sjtu.edu.cn"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "xhh678876"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -62,7 +63,6 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
   - files
 exclude:
   - docs

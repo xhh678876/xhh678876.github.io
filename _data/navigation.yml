@@ -4,16 +4,16 @@ main:
     url: "/zh-cn/#about-me"
 
   - title: "学历"
-    url: "/zh-cn/#-xl"
+    url: "/zh-cn/#education"
 
   - title: "论文专利"
-    url: "/zh-cn/#-lwzl"
+    url: "/zh-cn/#publications"
 
   - title: "荣誉奖项"
-    url: "/zh-cn/#-ryjx"
+    url: "/zh-cn/#honors"
 
   - title: "学术会议"
-    url: "/zh-cn/#-xshy"
+    url: "/zh-cn/#conferences"
 
   - title: "工作实习"
-    url: "/zh-cn/#-gzsx"
+    url: "/zh-cn/#experience"

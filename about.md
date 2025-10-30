@@ -1,10 +1,8 @@
-permalink: /
+---
+permalink: /zh-cn/
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 
@@ -52,4 +50,4 @@ redirect_from:
 - *2025.07 - 2025.8*, [浙江灵巧智能科技有限公司](https://www.dex-robot.com/en), 嵌入式与AI实习生
 - *2025.9 - *, [台湾大学电气工程学系语音处理实验室](https://speech.ee.ntu.edu.tw/previous_version/index.htm)，指导老师[李宏毅](https://speech.ee.ntu.edu.tw/~hylee/index.php)（Hongyi Lee）
 
-<img src="/images/31ffeb6c16d49c164f3d00eced47222.jpg" alt="与李宏毅老师合影" width="50%">
+<img src="/images/31ffeb6c16d49c164f3d00eced47222.jpg" alt="与李宏毅老师合影" width="60%">
