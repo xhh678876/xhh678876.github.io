@@ -7,6 +7,11 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+author:
+  name: "谢豪辉"
+  avatar: "/images/android-chrome-192x192.png"
+  bio: "语音大模型<br>音频识别<br>自然语言处理"
+  location: "上海"
 ---
 
 

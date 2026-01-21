@@ -11,7 +11,7 @@ redirect_from:
 author:
   name: "Xie Haohui"
   avatar: "/images/android-chrome-192x192.png"
-  bio: "Speech-LM<br>Audio Recognition<br>NLP"
+  bio: "Undergraduate · School of Mechanical Engineering, Shanghai Jiao Tong University"
   location: "Shanghai"
 ---
 
@@ -28,7 +28,7 @@ I am an undergraduate from Shanghai Jiao Tong University, School of Mechanical E
 # 🎓 Education
 
 - 2022.09 - present, Shanghai Jiao Tong University, School of Mechanical Engineering, Shanghai, B.S.
-- 2025.09 - 2026.01, <a href="https://www.ntu.edu.tw/"><img class="png" src="/images/e1f16419458797c1bef42e331b86961.png" width="20pt"></a> National Taiwan University, Department of Computer Science, Taiwan, Intern
+- 2025.09 - 2026.01, National Taiwan University, Department of Computer Science, Taiwan, Intern
 
 <span class='anchor' id='publications'></span>
 
@@ -52,7 +52,7 @@ Attended the 17th Asian Conference on Machine Learning (ACML 2025) in Taipei, Ta
 
 <span class='anchor' id='experience'></span>
 
-# 💻 Research Experience
+# 💻 Experience
 
 - 2025.04 - present, ScaleLab at Shanghai Jiao Tong University, Advisor: Yao Mark Mu
 - 2025.07 - 2025.08, Zhejiang Lingqiao Intelligent Technology Co., Ltd., AI & Embedded Systems Intern
