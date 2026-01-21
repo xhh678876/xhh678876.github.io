@@ -7,10 +7,10 @@
         </button>
         <ul class="visible-links">
           <li class="masthead__menu-item"><a id="lang-toggle" href="#" target="_self">切换语言</a></li>
-          {% if page.url contains '/zh-cn/' or page.permalink == '/zh-cn/' %}
-          {% assign nav = site.data.navigation.main %}
-          {% else %}
+          {% if page.url contains '/en/' or page.permalink == '/en/' %}
           {% assign nav = site.data.navigation_en.main %}
+          {% else %}
+          {% assign nav = site.data.navigation.main %}
           {% endif %}
           {% for link in nav %}
           <li class="masthead__menu-item"><a href="{{ link.url }}" target="_self">{{ link.title }}</a></li>
