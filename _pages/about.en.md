@@ -15,7 +15,7 @@ author:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate from Shanghai Jiao Tong University, School of Mechanical Engineering. My research interests include:
+I am an undergraduate from Shanghai Jiao Tong University, School of Mechanical Engineering. My advisors are Prof. Chen Xie and Prof. Hung-yi Lee. My research interests include:
 
 - Speech-LM
 - Audio Recognition
@@ -59,7 +59,7 @@ Attended the 17th Asian Conference on Machine Learning (ACML 2025) in Taipei, Ta
   - Designed and optimized a full multi-GPU training and evaluation pipeline, including data preprocessing, feature extraction, LoRA parameter-efficient training, and distributed evaluation across speech benchmarks such as TAU-TW Benchmark. Achieved a relative improvement of over 8–10% in recognition accuracy compared to baseline models.
   - Developed and experimented with speech–language alignment strategies that combine contrastive loss and multi-level feature fusion, enabling the model to perform cross-lingual reasoning and contextually grounded transcription under complex acoustic variations (e.g., Taiwanese Mandarin, Hokkien, and mixed-accent speech).
 
-- 2026.01 - present, X-LANCE Lab, Shanghai Jiao Tong University, Advisor: Chen Xie
+- 2026.01 - present, [X-LANCE Lab](https://x-lance.github.io/), Shanghai Jiao Tong University, Advisor: Chen Xie
 
 <img src="/images/together.jpg" alt="with Prof. Hung-yi Lee" width="100%">
 
