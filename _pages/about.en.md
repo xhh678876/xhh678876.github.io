@@ -52,7 +52,7 @@ Attended the 17th Asian Conference on Machine Learning (ACML 2025) in Taipei, Ta
 
 <span class='anchor' id='experience'></span>
 
-# 💻 Experience
+# 💻 Research Experience
 
 - 2025.04 - present, ScaleLab at Shanghai Jiao Tong University, Advisor: Yao Mark Mu
 - 2025.07 - 2025.08, Zhejiang Lingqiao Intelligent Technology Co., Ltd., AI & Embedded Systems Intern

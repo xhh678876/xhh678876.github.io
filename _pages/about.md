@@ -51,7 +51,7 @@ redirect_from:
 
 <span class='anchor' id='experience'></span>
 
-# 💻 工作实习
+# 💻 科研实习
 - *2025.04 - *, 上海交通大学[ScaleLab](https://scalelab-sjtu.github.io/)实验室，指导老师[穆尧](https://yaomarkmu.github.io/)（Yao Mark Mu）
 - *2025.07 - 2025.8*, [浙江灵巧智能科技有限公司](https://www.dex-robot.com/en), 嵌入式与AI实习生
 - *2025.9 - 2026.01*, [台湾大学电气工程学系语音处理实验室](https://speech.ee.ntu.edu.tw/previous_version/index.htm)，指导老师[李宏毅](https://speech.ee.ntu.edu.tw/~hylee/index.php)（Hongyi Lee）
