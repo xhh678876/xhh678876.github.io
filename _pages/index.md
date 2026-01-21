@@ -13,6 +13,8 @@ author:
   avatar: "/images/android-chrome-192x192.png"
   bio: "Speech-LM<br>Audio Recognition<br>NLP"
   location: "Shanghai"
+  email: "xhh666@sjtu.edu.cn"
+  github: "xhh678876"
 ---
 
 <span class='anchor' id='about-me'></span>
