@@ -17,11 +17,8 @@ author:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate from Shanghai Jiao Tong University, School of Mechanical Engineering. My advisors are Prof. Chen Xie and Prof. Hung-yi Lee. My research interests include:
+I am an undergraduate from Shanghai Jiao Tong University, School of Mechanical Engineering. My advisors are Prof. Chen Xie and Prof. Hung-yi Lee.
 
-- Speech-LM
-- Audio Recognition
-- NLP
 
 <span class='anchor' id='education'></span>
 
