@@ -1,3 +1,5 @@
+---
+layout: default
 permalink: /
 title: ""
 excerpt: ""
