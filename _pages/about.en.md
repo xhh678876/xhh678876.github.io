@@ -28,7 +28,7 @@ I am an undergraduate from Shanghai Jiao Tong University, School of Mechanical E
 # 🎓 Education
 
 - 2022.09 - present, Shanghai Jiao Tong University, School of Mechanical Engineering, Shanghai, B.S.
-- 2025.09 - 2026.01, National Taiwan University, Department of Computer Science, Taiwan, Intern
+- 2025.09 - 2026.01, <a href="https://www.ntu.edu.tw/"><img class="png" src="/images/e1f16419458797c1bef42e331b86961.png" width="20pt"></a> National Taiwan University, Department of Computer Science, Taiwan, Intern
 
 <span class='anchor' id='publications'></span>
 

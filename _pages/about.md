@@ -30,7 +30,7 @@ redirect_from:
 # 🎓 学历
 
 - *2022.09 - *, <a href="https://www.sjtu.edu.cn/"><img class="png" src="/images/sjtulogoblue.png" width="20pt"></a> 上海交通大学 机械与动力工程学院, 上海, 本科
-- *2025.09 - 2026.01*, <a href="https://www.ntu.edu.tw/"><img class="png" src="/images/sjtulogoblue.png" width="20pt"></a> 台湾大学 电机工程系, 台湾, 交换实习生
+- *2025.09 - 2026.01*, <a href="https://www.ntu.edu.tw/"><img class="png" src="/images/e1f16419458797c1bef42e331b86961.png" width="20pt"></a> 台湾大学 电机工程系, 台湾, 交换实习生
 <span class='anchor' id='publications'></span>
 
 # 📝 论文专利
