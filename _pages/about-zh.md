@@ -18,7 +18,7 @@ author:
 
 <span class='anchor' id='about-me'></span>
 
-我将本科即将毕业于上海交通大学 机械与动力工程学院，我目前的导师是陈谐教授和李宏毅老师。
+我将本科即将毕业于上海交通大学 机械与动力工程学院，我目前的导师是[陈谐教授](https://chenxie95.github.io/zh)和[李宏毅老师](https://speech.ee.ntu.edu.tw/~hylee/index.php)。
 
 
   

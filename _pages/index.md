@@ -17,7 +17,7 @@ author:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate from Shanghai Jiao Tong University, School of Mechanical Engineering. My advisors are Prof. Chen Xie and Prof. Hung-yi Lee.
+I am an undergraduate from Shanghai Jiao Tong University, School of Mechanical Engineering. My advisors are [Prof. Chen Xie](https://chenxie95.github.io/) and [Prof. Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php).
 
 
 <span class='anchor' id='education'></span>
