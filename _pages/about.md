@@ -11,12 +11,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将本科毕业于上海交通大学 机械与动力工程学院，我的导师是穆尧教授。
+我将本科即将毕业于上海交通大学 机械与动力工程学院，我的导师是陈谐教授。
 
 我的研究领域包括：
-- VLA+RL
-- World model
-- LLM
+- 语音大模型 (Speech-LM)
+- 音频识别 (Audio Recognition)
+- 自然语言处理 (NLP)
 
 
   
@@ -27,12 +27,12 @@ redirect_from:
 # 🎓 学历
 
 - *2022.09 - *, <a href="https://www.sjtu.edu.cn/"><img class="png" src="/images/sjtulogoblue.png" width="20pt"></a> 上海交通大学 机械与动力工程学院, 上海, 本科
-- *2025.09 - *, <a href="https://www.nucu.edu.tw/"><img class="png" src="/images/sjtulogoblue.png" width="20pt"></a> 阳明交通大学 资讯工程系, 台湾, 本科
+- *2025.09 - 2026.01*, <a href="https://www.ntu.edu.tw/"><img class="png" src="/images/sjtulogoblue.png" width="20pt"></a> 台湾大学 电机工程系, 台湾, 交换实习生
 <span class='anchor' id='publications'></span>
 
 # 📝 论文专利
 
-
+- **Hao-Hui Xie**, Ho-Lam Chung, Yi-Cheng Lin, Ke-Han Lu, Xie Chen, and Hung-yi Lee. "TW-Sound600K: A Large-Scale Taiwan-Localized Multimodal Audio Dataset for Regional Audio-Language Modeling." *准备中*, 2026.
 <span class='anchor' id='honors'></span>
 
 # 🏅 荣誉奖项
@@ -43,13 +43,18 @@ redirect_from:
 
 <span class='anchor' id='conferences'></span>
 
-
+# 📌 学术会议
+参加了在台湾台北举办的第17届亚洲机器学习会议（ACML 2025）。
 
 <span class='anchor' id='experience'></span>
 
 # 💻 工作实习
 - *2025.04 - *, 上海交通大学[ScaleLab](https://scalelab-sjtu.github.io/)实验室，指导老师[穆尧](https://yaomarkmu.github.io/)（Yao Mark Mu）
 - *2025.07 - 2025.8*, [浙江灵巧智能科技有限公司](https://www.dex-robot.com/en), 嵌入式与AI实习生
-- *2025.9 - *, [台湾大学电气工程学系语音处理实验室](https://speech.ee.ntu.edu.tw/previous_version/index.htm)，指导老师[李宏毅](https://speech.ee.ntu.edu.tw/~hylee/index.php)（Hongyi Lee）
+- *2025.9 - 2026.01*, [台湾大学电气工程学系语音处理实验室](https://speech.ee.ntu.edu.tw/previous_version/index.htm)，指导老师[李宏毅](https://speech.ee.ntu.edu.tw/~hylee/index.php)（Hongyi Lee）
+  - 基于 DeSTA2.5 框架对大规模台湾语音语言模型进行微调，集成 Llama3-8B 作为文本骨干网络，Whisper-v3 作为声学编码器。实现了基于 LoRA 的对齐和时间戳感知微调，以增强口音适应性并提高跨区域方言的 ASR 鲁棒性。
+  - 设计并优化了完整的多 GPU 训练和评估流程，包括数据预处理、特征提取、LoRA 参数高效训练，以及在 TAU-TW Benchmark 等语音基准上的分布式评估。与基线模型相比，识别准确率相对提升 8-10% 以上。
+  - 开发并实验了结合对比损失和多层级特征融合的语音-语言对齐策略，使模型能够在复杂声学变化（如台湾国语、闽南语和混合口音语音）下进行跨语言推理和上下文驱动的转录。
+- *2026.01 - *, 上海交通大学 X-LANCE 实验室，指导老师谢辰（Chen Xie）
 
-<img src="/images/31ffeb6c16d49c164f3d00eced47222.jpg" alt="与李宏毅老师合影" width="50%">
+<img src="/images/together.jpg" alt="与李宏毅老师合影" width="50%">
