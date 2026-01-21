@@ -1,10 +1,11 @@
 ---
 layout: default
-permalink: /en/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from:
+  - /en/
   - /en/about/
   - /en/about.html
 author:
