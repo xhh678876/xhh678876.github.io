@@ -64,6 +64,7 @@ author:
 include:
   - .htaccess
   - files
+  - _pages
 exclude:
   - docs
   - google_scholar_crawler
