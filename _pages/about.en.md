@@ -9,6 +9,7 @@ redirect_from:
   - /en/about.html
 author:
   name: "Xie Haohui"
+  avatar: "/images/android-chrome-192x192.png"
   bio: "Undergraduate · School of Mechanical Engineering, Shanghai Jiao Tong University"
   location: "Shanghai"
 ---
