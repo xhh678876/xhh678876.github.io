@@ -36,7 +36,8 @@ author:
 
 # 📝 论文专利
 
-- **Hao-Hui Xie**, Ho-Lam Chung, Yi-Cheng Lin, Ke-Han Lu, Xie Chen, and Hung-yi Lee. "TW-Sound600K: A Large-Scale Taiwan-Localized Multimodal Audio Dataset for Regional Audio-Language Modeling." *准备中*, 2026.
+- **Hao-Hui Xie**, Ho-Lam Chung, Yi-Cheng Lin, Ke-Han Lu, Wenze Ren, Xie Chen, and Hung-yi Lee. "TW-Sound580K: A Regional Audio-Text Dataset with Verification-Guided Curation for Localized Audio-Language Modeling." *已投稿 Interspeech 2026*, arXiv:2603.05094. \[[论文](https://arxiv.org/abs/2603.05094)\]
+- Tengjie Zhu, Guanyu Cai, Yang Zhaohui, Guanzhu Ren, **Hao-Hui Xie**, ZiRui Wang, Junsong Wu, Jingbo Wang, Xiaokang Yang, Yao Mu, and Yichao Yan. "CLOT: Closed-Loop Global Motion Tracking for Whole-Body Humanoid Teleoperation." *已投稿 RSS 2026*, arXiv:2602.15060. \[[论文](https://arxiv.org/abs/2602.15060)\]
 <span class='anchor' id='honors'></span>
 
 # 🏅 荣誉奖项
