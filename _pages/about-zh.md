@@ -20,7 +20,7 @@ author:
 
 <span class='anchor' id='about-me'></span>
 
-我将本科即将毕业于上海交通大学 机械与动力工程学院，我目前的导师是[陈谐教授](https://chenxie95.github.io/zh)和[李宏毅老师](https://speech.ee.ntu.edu.tw/~hylee/index.php)。
+我将本科即将毕业于上海交通大学 机械与动力工程学院，我目前的导师是[陈谐教授](https://chenxie95.github.io/zh)。
 
 
   
@@ -62,4 +62,8 @@ author:
   - 开发并实验了结合对比损失和多层级特征融合的语音-语言对齐策略，使模型能够在复杂声学变化（如台湾国语、闽南语和混合口音语音）下进行跨语言推理和上下文驱动的转录。
 - *2026.01 - *, 上海交通大学 [X-LANCE 实验室](https://x-lance.github.io/zh/)，指导老师 陈谐（Chen Xie）
 
-<img src="/images/together.jpg" alt="与李宏毅老师合影" width="50%">
+<span class='anchor' id='projects'></span>
+
+# 🚀 开源项目
+
+- **[openclaw-sjtu](https://github.com/xhh678876/openclaw-sjtu)** —— 面向交大同学的全能 AI 校园助手，基于 OpenClaw 技能框架构建，涵盖作业追踪、选课参谋、水源社区智能摘要、交大 PPT 一键生成等 21+ 项功能。

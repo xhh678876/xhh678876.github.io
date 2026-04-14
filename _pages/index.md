@@ -19,7 +19,7 @@ author:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate from Shanghai Jiao Tong University, School of Mechanical Engineering. My advisors are [Prof. Chen Xie](https://chenxie95.github.io/) and [Prof. Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php).
+I am an undergraduate from Shanghai Jiao Tong University, School of Mechanical Engineering. My advisor is [Prof. Chen Xie](https://chenxie95.github.io/).
 
 
 <span class='anchor' id='education'></span>
@@ -63,6 +63,10 @@ Attended the 17th Asian Conference on Machine Learning (ACML 2025) in Taipei, Ta
 
 - 2026.01 - present, [X-LANCE Lab](https://x-lance.github.io/), Shanghai Jiao Tong University, Advisor: Chen Xie
 
-<img src="/images/together.jpg" alt="with Prof. Hung-yi Lee" width="100%">
+<span class='anchor' id='projects'></span>
+
+# 🚀 Projects
+
+- **[openclaw-sjtu](https://github.com/xhh678876/openclaw-sjtu)** — An AI campus assistant for SJTU students, built on the OpenClaw skill framework. Covers 21+ features including homework tracking, course reviews, Shuiyuan community summarization, and a PPT generator with SJTU templates.
 
 
