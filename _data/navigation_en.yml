@@ -6,8 +6,14 @@ main:
   - title: "Education"
     url: "/#education"
 
+  - title: "Company"
+    url: "/#entrepreneurship"
+
   - title: "Publications"
     url: "/#publications"
+
+  - title: "Projects"
+    url: "/#projects"
 
   - title: "Honors"
     url: "/#honors"
@@ -18,6 +24,5 @@ main:
   - title: "Experience"
     url: "/#experience"
 
-  - title: "Projects"
-    url: "/#projects"
-
+  - title: "Media"
+    url: "/#media"

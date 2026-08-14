@@ -10,7 +10,7 @@ redirect_from:
 author:
   name: "谢豪辉"
   avatar: "/images/android-chrome-192x192.png"
-  bio: "语音大模型<br>音频识别<br>自然语言处理"
+  bio: "语音智能体<br>语音大模型<br>AI × 教育"
   location: "上海"
   email: "xhh666@sjtu.edu.cn"
   github: "xhh678876" # Github profile
@@ -20,10 +20,9 @@ author:
 
 <span class='anchor' id='about-me'></span>
 
-我将本科即将毕业于上海交通大学 机械与动力工程学院，我目前的导师是[陈谐教授](https://chenxie95.github.io/zh)。
+我即将本科毕业于上海交通大学 机械与动力工程学院，目前的导师是[X-LANCE 实验室](https://x-lance.github.io/zh/)的[陈谐教授](https://chenxie95.github.io/zh)。
 
-
-  
+我同时是 **[上海交辉数智科技有限公司](https://xiehaohui.com)**（Shanghai Xhigh Intelligence Technology）创始人兼 CEO，公司成立于 2026 年 6 月 18 日。我目前的主要方向是 **语音智能体（Voice Agent）**——端到端、低延迟的语音交互，以及在其之上生长出的 Agent 原生教育产品。
 
 
 <span class='anchor' id='education'></span>
@@ -32,12 +31,31 @@ author:
 
 - *2022.09 - *, <a href="https://www.sjtu.edu.cn/"><img class="png" src="/images/sjtulogoblue.png" width="20pt"></a> 上海交通大学 机械与动力工程学院, 上海, 本科
 - *2025.09 - 2026.01*, <a href="https://www.ntu.edu.tw/"><img class="png" src="/images/e1f16419458797c1bef42e331b86961.png" width="20pt"></a> 台湾大学 电机工程系, 台湾, 交换实习生
+
+<span class='anchor' id='entrepreneurship'></span>
+
+# 🏢 创业
+
+- **2026.06 - **，**[上海交辉数智科技有限公司](https://xiehaohui.com)** 创始人兼首席执行官（CEO），上海
+  - 一家 **Agent × 教育** 公司，成立于 2026.06.18，以 **OPC（One-Person Company，一人公司）** 形态运转：一位人类创始人负责决策与判断，一支常驻智能体团队承担研发、内容、数据与运营。
+  - **语音智能体是核心技术方向**——端到端低延迟语音流 + 实时图文同步生成，技术来源于我们在区域化语音语言建模上的研究成果。
+  - 旗舰平台 **[sjtuagent.com](https://sjtuagent.com)** 已在上海交通大学上线 7 门课程；同一引擎延伸至小学数学课堂（[school.sjtuagent.com](https://school.sjtuagent.com)）与少儿 AI 创作（[easy-vibecoding.com](https://easy-vibecoding.com)）。
+  - 在上海交通大学网络信息中心、学生创新中心的技术指导下推进研发，并获得上海交通大学 X-LANCE 实验室赞助支持。
+
 <span class='anchor' id='publications'></span>
 
 # 📝 论文专利
 
-- **Hao-Hui Xie**, Ho-Lam Chung, Yi-Cheng Lin, Ke-Han Lu, Wenze Ren, Xie Chen, and Hung-yi Lee. "TW-Sound580K: A Regional Audio-Text Dataset with Verification-Guided Curation for Localized Audio-Language Modeling." *已投稿 Interspeech 2026*, arXiv:2603.05094. \[[论文](https://arxiv.org/abs/2603.05094)\]
-- Tengjie Zhu, Guanyu Cai, Yang Zhaohui, Guanzhu Ren, **Hao-Hui Xie**, ZiRui Wang, Junsong Wu, Jingbo Wang, Xiaokang Yang, Yao Mu, and Yichao Yan. "CLOT: Closed-Loop Global Motion Tracking for Whole-Body Humanoid Teleoperation." *已投稿 RSS 2026*, arXiv:2602.15060. \[[论文](https://arxiv.org/abs/2602.15060)\]
+- **Hao-Hui Xie**, Ho-Lam Chung, Yi-Cheng Lin, Ke-Han Lu, Wenze Ren, Xie Chen, and Hung-yi Lee. "TW-Sound580K: A Regional Audio-Text Dataset with Verification-Guided Curation for Localized Audio-Language Modeling." *已投稿 ISCSLP 2026*, arXiv:2603.05094. \[[论文](https://arxiv.org/abs/2603.05094)\]
+- Tengjie Zhu, Guanyu Cai, Yang Zhaohui, Guanzhu Ren, **Hao-Hui Xie**, ZiRui Wang, Junsong Wu, Jingbo Wang, Xiaokang Yang, Yao Mu, and Yichao Yan. "CLOT: Closed-Loop Global Motion Tracking for Whole-Body Humanoid Teleoperation." *已投稿 CoRL 2026*, arXiv:2602.15060. \[[论文](https://arxiv.org/abs/2602.15060)\]
+<span class='anchor' id='projects'></span>
+
+# 🚀 项目
+
+- **[sjtuagent.com](https://sjtuagent.com)** —— *把每一门课，变成会教学的 Agent*。已在上海交通大学上线的多课程教学平台：**7 门课程、48 个章节、954 道题目**，提供课程助教（RAG）、随机出题、**实时语音助教**（流式 ASR + TTS）、力导向知识图谱、逐知识点动画与模拟考卷。上线以来累计 **19,900+ 条学习行为、7,400+ 次在线答题、1,900+ 个学习会话、640+ 次 AI 助教答疑**。Next.js 15 + Python 语音后端。
+- **[clawsjtu.com](https://clawsjtu.com)** —— *OpenClaw 龙虾广场*，一个只有 Agent 能发言的社区。每位交大同学养一只「OpenClaw 龙虾」，发帖、评论、互吵**全部只能通过 v1 REST API 完成**，人类只能围观。现有 **110 只注册龙虾**，限 `@sjtu.edu.cn` 邮箱准入，含龙虾繁殖与基因遗传、每周鹊桥抽签、XP 经济与虾格 MBTI 榜。Next.js 15 + Supabase。
+- **[openclaw-sjtu](https://github.com/xhh678876/openclaw-sjtu)**（**57★**）—— 面向交大同学的全能 AI 校园助手，基于 OpenClaw 技能框架构建，涵盖作业追踪、选课参谋、水源社区智能摘要、交大 PPT 一键生成等 21+ 项功能。
+
 <span class='anchor' id='honors'></span>
 
 # 🏅 荣誉奖项
@@ -62,8 +80,8 @@ author:
   - 开发并实验了结合对比损失和多层级特征融合的语音-语言对齐策略，使模型能够在复杂声学变化（如台湾国语、闽南语和混合口音语音）下进行跨语言推理和上下文驱动的转录。
 - *2026.01 - *, 上海交通大学 [X-LANCE 实验室](https://x-lance.github.io/zh/)，指导老师 陈谐（Chen Xie）
 
-<span class='anchor' id='projects'></span>
+<span class='anchor' id='media'></span>
 
-# 🚀 开源项目
+# 📰 媒体报道
 
-- **[openclaw-sjtu](https://github.com/xhh678876/openclaw-sjtu)** —— 面向交大同学的全能 AI 校园助手，基于 OpenClaw 技能框架构建，涵盖作业追踪、选课参谋、水源社区智能摘要、交大 PPT 一键生成等 21+ 项功能。
+- *2026.05.19*，上海交通大学「**交我算**」专题报道：`openclaw-sjtu` 入选「致远一号」云养虾优秀案例 —— 交大校园全能 AI 助手。\[[报道原文](https://mp.weixin.qq.com/s/E_Nv3g7wqBVvFnmZsd8cdQ)\]
